@@ -12,6 +12,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
 
+<br />
+
+
 ### About Me 🚀
 🎓 I am a sophomore at National Institute of Technology, Jalandhar </br>
 👨‍💻  I am passionate about Web Dev, Machine Learning & I enjoy learning new things. </br>
