@@ -16,7 +16,7 @@
 
 
 ### About Me 🚀
-🎓 I am a sophomore at National Institute of Technology, Jalandhar </br>
+🎓 I am a Final Year Student at National Institute of Technology, Jalandhar </br>
 👨‍💻  I am passionate about Web Dev, Machine Learning & I enjoy learning new things. </br>
 🔭 I’m currently working on https://github.com/Shashank024/Machine-Learning/LOWESSimplementation.ipynb</br>
 🌱 I’m currently learning Back-end Developing and Machine Learning </br>
